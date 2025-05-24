@@ -32,7 +32,7 @@ ScreenGui.ResetOnSpawn = false
 
 Draggable.Name = "Ç¤Ò‰Ì·Ò‰ÌµÒ‰Ì¸Ò‰Ì·Ò‰ÌµÒ‰Ì¸Ò‰Ì¡Ò‰Ì¡Ò‰Ì¼Ò‰Ì±Ò‰ÍŽÒ‰ÍŽÒ‰ÌžÒ‰Ì¼Ò‰Ì±Ò‰ÍŽÒ‰ÍŽÒ‰ÌžÒ‰Í¤Ò‰Í¬Ò‰Ì…Ò‰Í¤Ò‰Í¬."
 Draggable.Parent = ScreenGui
-Draggable.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Draggable.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Draggable.BackgroundTransparency = 1.000
 Draggable.BorderSizePixel = 0
 Draggable.Position = UDim2.new(0.35026139, 0, 0.296158612, 0)
@@ -40,7 +40,7 @@ Draggable.Size = UDim2.new(0, 438, 0, 277)
 
 Frame.Name = ". . Ç¤Ò‰Ì·Ò‰ÌµÒ‰Ì¸Ò‰Ì·Ò‰ÌµÒ‰Ì¸Ò‰Ì¡Ò‰Ì¡Ò‰Ì¼Ò‰Ì±Ò‰ÍŽÒ‰ÍŽÒ‰ÌžÒ‰Ì¼Ò‰Ì±Ò‰ÍŽÒ‰ÍŽÒ‰ÌžÒ‰Í¤Ò‰Í¬Ò‰Ì…Ò‰Í¤Ò‰Í¬. "
 Frame.Parent = Draggable
-Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BackgroundTransparency = 1.000
 Frame.BorderColor3 = Color3.fromRGB(0, 250, 0)
 Frame.BorderSizePixel = 0
@@ -49,7 +49,7 @@ Frame.Size = UDim2.new(0, 438, 0, 277)
 
 Frame_2.Name = " . Ç¤Ò‰Ì·Ò‰ÌµÒ‰Ì¸Ò‰Ì·Ò‰ÌµÒ‰Ì¸Ò‰Ì¡Ò‰Ì¡Ò‰Ì¼Ò‰Ì±Ò‰ÍŽÒ‰ÍŽÒ‰ÌžÒ‰Ì¼Ò‰Ì±Ò‰ÍŽÒ‰ÍŽÒ‰ÌžÒ‰Í¤Ò‰Í¬Ò‰Ì…Ò‰Í¤Ò‰Í¬. "
 Frame_2.Parent = Frame
-Frame_2.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+Frame_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame_2.BorderColor3 = Color3.fromRGB(0, 250, 0)
 Frame_2.BorderSizePixel = 0
 Frame_2.Position = UDim2.new(-0.00133678142, 0, -0.0179207586, 0)
@@ -299,9 +299,9 @@ end)
 notification:Play()
 game:GetService("StarterGui"):SetCore("SendNotification", {
 Title = "FEAG";
-Text = "FEAG Has Been Loaded , Made By Scripty#2063 (gamer14_123)";
+Text = "LOIC DA FUZZER GOT YOU HAXXED HAXXOR.By Hecke";
 Icon = "";
-Duration = 700; 
+Duration = 40; 
 Button1 = "Yes Sir";
 })
 --Check:
